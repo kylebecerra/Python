@@ -2,37 +2,24 @@
 # coding: utf-8
 
 # In[1]:
-
-
+#install packages
+pip install numpy
 pip install pandas
+pip install matplotlib
 
 
 # In[2]:
 
-
-pip install matplotlib.pyplot
-
-
-# In[3]:
-
-
-pip install matplotlib
-
-
-# In[9]:
-
-
+#import packages
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
 
 
-# In[15]:
+# In[3]:
 
-
-plt.plot(x,y,'b')
-plt.xlabel('x')
+#apply variable parameters
 x = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
 y = [1, 4, 3, 2, 7, 6, 9, 8, 10, 5]
 
