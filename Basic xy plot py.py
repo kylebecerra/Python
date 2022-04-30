@@ -27,21 +27,6 @@ import pandas as pd
 import numpy as np
 
 
-# In[12]:
-
-
-x = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
-y = [1, 4, 3, 2, 7, 6, 9, 8, 10, 5]
-
-plt.plot(x,y,'b')
-plt.xlabel('x')
-x = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
-y = [1, 4, 3, 2, 7, 6, 9, 8, 10, 5]
-
-plt.plot(x,y,'b')
-plt.xlabel('x')
-plt.ylabel('y')
-
 
 # In[15]:
 
