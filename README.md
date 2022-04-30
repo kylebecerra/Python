@@ -1,2 +1,2 @@
 # Python
-Trial &amp; error proj pack
+Trial &amp; error project pack
